@@ -3,7 +3,7 @@
 ***Автор: Блохина Валерия Сергеевна***:mortar_board:
 
 
-## :white_check_mark: Лабораторная работа 1
-### _Ключевые слова: калькулятор / введение / перебор чисел / установка Python_
+## :white_check_mark: Лабораторная работа 1. Начало работы с MySQL. MySQL Workbench
+### _Ключевые слова: MySQL workbench / Docker / введение
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%201)
 
