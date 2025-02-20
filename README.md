@@ -1,4 +1,4 @@
-# :wavy_dash: Базы данных - 2 крус :wavy_dash:
+# :wavy_dash: Базы данных - 2 курс :wavy_dash:
 
 ***Автор: Блохина Валерия Сергеевна***:mortar_board:
 
