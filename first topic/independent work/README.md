@@ -14,7 +14,7 @@ __Задание 1.1:  Заполнить таблицу "Типы данных 
 :small_orange_diamond: материал взят с книги "Изучаем SQL" Алана Бьюли
 
 ## Выполненное задание (скриншот):
-![IW1.1](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB1_screen3.1.png)
+![IW1.1](https://github.com/BlohinaValeria/date-base/blob/main/first%20topic/independent%20work/1-1.png)
 ## Выполненное задание (подробнее):
 ![IW1.1](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB1_screen3.1.png)
 
