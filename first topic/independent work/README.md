@@ -16,7 +16,7 @@ __Задание 1.1:  Заполнить таблицу "Типы данных 
 ## Выполненное задание (скриншот):
 ![IW1.1](https://github.com/BlohinaValeria/date-base/blob/main/first%20topic/independent%20work/1-1.png)
 ## Выполненное задание (подробнее):
-![IW1.1](https://github.com/BlohinaValeria/date-base/blob/main/first%20topic/independent%20work/СР%201%20-%201.xlsx)
+Просмотреть xlsx файл: [перейти](https://github.com/BlohinaValeria/date-base/blob/main/first%20topic/independent%20work/СР%201%20-%201.xlsx)
 
 __Задание 1.2:  Создать презентацию на тему «Ведущие производители СУБД»__
 
