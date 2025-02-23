@@ -16,27 +16,24 @@ __Задание 1.1:  Заполнить таблицу "Типы данных 
 ## Выполненное задание (скриншот):
 ![IW1.1](https://github.com/BlohinaValeria/date-base/blob/main/first%20topic/independent%20work/1-1.png)
 ## Выполненное задание (подробнее):
-![IW1.1](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB1_screen3.1.png)
+![IW1.1](https://github.com/BlohinaValeria/date-base/blob/main/first%20topic/independent%20work/СР%201%20-%201.xlsx)
 
 __Задание 1.2:  Создать презентацию на тему «Ведущие производители СУБД»__
 
 При выполнении задания следует воспользоваться лекционным материалом, основной и дополнительной литературой. Информацию о ведущих производителях СУБД оформите в виде презентации, укажите название СУБД и кратко дайте ей характеристику. 
 
 ## Комментарий к заданию:
-:small_orange_diamond: материал взят с книги "Изучаем SQL" Алана Бьюли
+:small_orange_diamond: Рассмотрены основные производители входящие в ТОП 20: Microsoft, Oracle, Post и другие
 
 ## Выполненное задание(по ссылке):
-![IW1.1](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB1_screen3.1.png)
+![IW1.1](https://github.com/BlohinaValeria/date-base/blob/main/first%20topic/independent%20work/Ведущие%20производители%20СУБД.pdf)
 
 __Задание 1.3:  Создать презентацию на тему «Этапы развития СУБД»__
 
 При выполнении задания следует воспользоваться: лекционным материалом, основной и дополнительной литературой. Информацию об этапах развития СУБД оформите в виде презентации, где на слайдах отобразите характеристику этапа и ключевое (ключевые) события, которые на этом этапе произошли.
 
-## Комментарий к заданию:
-:small_orange_diamond: материал взят с книги "Изучаем SQL" Алана Бьюли
-
 ## Выполненное задание(по ссылке):
-![IW1.1](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB1_screen3.1.png)
+![IW1.1](https://github.com/BlohinaValeria/date-base/blob/main/first%20topic/independent%20work/Этапы%20развития.pdf)
 
 ### Вариативная часть
 
@@ -45,7 +42,14 @@ __Задание 1.4: Развертывание БД MariaDb с помощью 
 Выполните развертывание БД MariaDb с использованием командной строки Docker (CLI). Опишите в отчете команду для развертывания и результат, продемонстрируйте какую-то простейшую команду по работе с БД (например создание/получение данных) с помощью клиента или подключившись к БД из командной строки.
 
 ## Комментарий к заданию:
-:small_orange_diamond: Проблем с выполнением не возникло
+:small_orange_diamond: Перед выполнением команды необходимо запустить докер. Далее ввести команду. Описание команды: 
+_docker run --name mariadb -d -e MYSQL_ROOT_PASSWORD=my_secret_password -p 3306:3306 mariadb:latest_
+* docker run: создания и запуска нового контейнера из образа.
+* name mariadb: имя контейнера.
+* -d: запуск контейнера в “detached”(фоновом) режиме
+* -e MYSQL_ROOT_PASSWORD=my_secret_password: установка пароля для контейнера.
+* -p 3306:3306: выполняется проброс портов (port mapping).
+* mariadb:latest: имя образа Docker, который будет использован для создания контейнера.
 
 ## Выполненное задание(по ссылке):
-![IW1.1](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB1_screen3.1.png)
+![IW1.1](https://github.com/BlohinaValeria/date-base/blob/main/first%20topic/independent%20work/MariaDb-docker.png)
