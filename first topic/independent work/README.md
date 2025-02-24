@@ -52,5 +52,5 @@ _docker run --name mariadb -d -e MYSQL_ROOT_PASSWORD=my_secret_password -p 3306:
 * mariadb:latest: имя образа Docker, который будет использован для создания контейнера.
 
 :small_orange_diamond: Далее подключение к контейнеру. Важно! Пароль не отображается при вводе
-## Выполненное задание(по ссылке):
+## Выполненное задание:
 ![screen](https://github.com/BlohinaValeria/date-base/blob/main/first%20topic/independent%20work/MariaDb-docker.png)
