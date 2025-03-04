@@ -24,5 +24,5 @@
 ## Комментарий к заданию:
 :small_orange_diamond: Возникли проблемы в связях между таблицей Orders и Delivers. Была решена после просмотра видео.
 ## Результат основной программы:
-:small_orange_diamond: Успешное выполнение:
+:small_orange_diamond: Успешное выполнение:![success](https://github.com/BlohinaValeria/database/blob/main/second%20topic/LAB/успех.png)
 
