@@ -6,8 +6,8 @@
 ## Комментарий к заданию:
 :small_orange_diamond: Возникли проблемы с созданием нового подключение, но они были решены
 ## Результат основной программы:
-:small_orange_diamond: Модель:
-:small_orange_diamond: Ссылка на гит с SQL-скриптом:
+:small_orange_diamond: Модель: ![firstmodel]https://github.com/BlohinaValeria/database/blob/main/second%20topic/LAB/firstmodel.png
+:small_orange_diamond: Ссылка на гит с SQL-скриптом: https://gist.github.com/BlohinaValeria/758d10fa95ef9282e44663ac5ba04665
 
 ## Задание Задание 2 
 Создайте собственную EER-диаграмму и спроектируйте БД с параметрами на основе текста, опубликованного по ссылке: https://habr.com/ru/post/175985/
