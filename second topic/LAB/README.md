@@ -6,7 +6,7 @@
 ## Комментарий к заданию:
 :small_orange_diamond: Возникли проблемы с созданием нового подключение, но они были решены
 ## Результат основной программы:
-:small_orange_diamond: Модель: ![firstmodel](https://github.com/BlohinaValeria/database/blob/main/second%20topic/LAB/firstmodel.png)
+:small_orange_diamond: Модель: ![firstmodel](https://github.com/BlohinaValeria/database/blob/main/second%20topic/LAB/firstmodel.png)\
 :small_orange_diamond: Ссылка на гит с SQL-скриптом: https://gist.github.com/BlohinaValeria/758d10fa95ef9282e44663ac5ba04665
 
 ## Задание Задание 2 
@@ -15,7 +15,7 @@
 ## Комментарий к заданию:
 :small_orange_diamond: Возникли проблемы в связях между таблицей Orders и Delivers. Была решена после просмотра видео.
 ## Результат основной программы:
-:small_orange_diamond: Модель: ![model](https://github.com/BlohinaValeria/database/blob/main/second%20topic/LAB/схема.png)<br />
+:small_orange_diamond: Модель: ![model](https://github.com/BlohinaValeria/database/blob/main/second%20topic/LAB/схема.png)\
 :small_orange_diamond: Ссылка на гит с SQL-скриптом: https://gist.github.com/BlohinaValeria/758d10fa95ef9282e44663ac5ba04665
 
 ## Задание Задание 3
