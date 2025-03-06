@@ -5,28 +5,5 @@
 Определите адреса клиентов, заказывавших игры с доставкой. 
 
 ## Результат основной программы:
-:small_orange_diamond: Модель: ![firstmodel](https://github.com/BlohinaValeria/database/blob/main/second%20topic/LAB/firstmodel.png)\
-:small_orange_diamond: Ссылка на гит с SQL-скриптом: https://gist.github.com/BlohinaValeria/758d10fa95ef9282e44663ac5ba04665
-
-## Задание 2 
-Создайте собственную EER-диаграмму и спроектируйте БД с параметрами на основе текста, опубликованного по ссылке: https://habr.com/ru/post/175985/
-
-## Комментарий к заданию:
-:small_orange_diamond: Возникли проблемы в связях между таблицей Orders и Delivers. Была решена после просмотра видео.
-## Результат основной программы:
-:small_orange_diamond: Модель: ![model](https://github.com/BlohinaValeria/database/blob/main/second%20topic/LAB/схема.png)\
-:small_orange_diamond: Ссылка на гит с SQL-скриптом: https://gist.github.com/BlohinaValeria/758d10fa95ef9282e44663ac5ba04665
-
-## Задание 3
-Выполните операцию Database - Forward Engineer и создайте базу данных на вашем сервере. Сделайте скриншот с успешным выполнением этого процесса и вставьте его в отчет. 
-
-## Комментарий к заданию:
-:small_orange_diamond: Возникли проблемы в связях между таблицей Orders и Delivers. Была решена после просмотра видео.
-## Результат основной программы:
-:small_orange_diamond: Успешное выполнение:![success](https://github.com/BlohinaValeria/database/blob/main/second%20topic/LAB/успех.png)
-
-## Задание 4
-Добавьте несколько строк и новых атрибутов в каждую таблицу созданной базы данных. Попробуйте удалить связанные в нескольких таблицах данные, зафиксируйте, что произошло и опишите текстом (и по возможности дополните скриншотами) в отчёте.
-## Комментарий к заданию:
-:small_orange_diamond: Изменение связанных внешними ключами данными приводит к ошибке и их изменение возможно только при изменение NO ACTION
+:small_orange_diamond: Решение по ссылке  ![document](https://docs.google.com/document/d/1sW7iK8T0QRyDz1urwVuQ-npjBjQZDwhC/edit?usp=sharing&ouid=104007485939314571527&rtpof=true&sd=true)
 
