@@ -45,6 +45,7 @@
 Модель - объем диска, скорость вращения шпинделя, тип используемого интерфейса 
 Серийный номер - модель, дата приобретения, дата выхода из строя, комментарии
 
-:small_orange_diamond: Google document с открытым комментированием по ссылке  [перейти](https://docs.google.com/document/d/1sW7iK8T0QRyDz1urwVuQ-npjBjQZDwhC/edit?usp=sharing&ouid=104007485939314571527&rtpof=true&sd=true)
+:small_orange_diamond: EER-диаграмма в workbench
+[диаграмма](https://github.com/BlohinaValeria/database/blob/main/fifth%20topic/LAB/LR%205.png)
 
 
