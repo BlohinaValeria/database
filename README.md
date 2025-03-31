@@ -17,6 +17,7 @@
 ### Ключевые слова: Решение задач реляционной алгебры
 :small_orange_diamond:[Лабораторная работа 3 - перейти ](https://github.com/BlohinaValeria/database/tree/main/third%20topic/LAB)
 :small_orange_diamond:[Самостоятельная работа 3 - перейти ](https://github.com/BlohinaValeria/database/tree/main/third%20topic/independent%20work)
+
 :small_orange_diamond:[Лабораторная работа 4 - перейти ](https://github.com/BlohinaValeria/database/tree/main/fourth%20topic%20/LAB)
 :small_orange_diamond:[Самостоятельная работа 4 - перейти ](https://github.com/BlohinaValeria/database/tree/main/fourth%20topic%20/independent%20work%20)
 
