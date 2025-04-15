@@ -19,12 +19,13 @@ _Вариативная часть_
 
 ## Результат:
 :small_orange_diamond: Документ:
+[перейти](https://github.com/BlohinaValeria/database/blob/main/sixth%20topic/LAB/ЛР%206.docx)
 
-![диаграмма](https://github.com/BlohinaValeria/database/blob/main/fifth%20topic/LAB/LR%205.png)
+:small_orange_diamond: mwbg:
+[файл mwbg](https://github.com/BlohinaValeria/database/blob/main/sixth%20topic/LAB/LR6.mwbg)
 
 :small_orange_diamond: EER-диаграмма в workbench:
-
-![диаграмма](https://github.com/BlohinaValeria/database/blob/main/fifth%20topic/LAB/LR%205.png)
+![диаграмма ](https://github.com/BlohinaValeria/database/blob/main/sixth%20topic/LAB/LR%206%20.png)
 
 ## Коммментарии:
 :large_orange_diamond: Добавлена новая таблица позиция заказа по описанию предметной среды
