@@ -22,7 +22,7 @@ _Вариативная часть_
 [перейти](https://github.com/BlohinaValeria/database/blob/main/sixth%20topic/LAB/ЛР%206.docx)
 
 :small_orange_diamond: mwbg:
-[файл mwbg](https://github.com/BlohinaValeria/database/blob/main/sixth%20topic/LAB/LR6.mwbg)
+[файл mwbg](https://github.com/BlohinaValeria/database/blob/main/third%20topic/independent%20work/LR6.mwb)
 
 :small_orange_diamond: EER-диаграмма в workbench:
 ![диаграмма ](https://github.com/BlohinaValeria/database/blob/main/sixth%20topic/LAB/LR%206%20.png)
