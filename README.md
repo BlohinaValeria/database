@@ -25,4 +25,3 @@
 :small_orange_diamond:[Лабораторная работа 5 - перейти ](https://github.com/BlohinaValeria/database/tree/main/fifth%20topic/LAB)
 :small_orange_diamond:[Самостоятельная работа - перейти ](https://github.com/BlohinaValeria/database/tree/main/fifth%20topic/independent%20work)
 
-:small_orange_diamond:[Лабораторная работа 6 - перейти ](https://github.com/BlohinaValeria/database/tree/main/sixth%20topic/LAB)
